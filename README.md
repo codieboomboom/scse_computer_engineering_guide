@@ -9,3 +9,4 @@ As the last student of the previous curriculum, who get to experience part of th
 The repo will be divided into smaller .MD files for ease of reading. This will be update regularly as I complete more writing when i'm free:
 
 1. For Pre-Freshie (totally no background in IT or whatsoever)
+    [Guide for pre-matriculated students - Part 1](./pre_freshie_1.md)
