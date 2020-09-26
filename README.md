@@ -8,5 +8,11 @@ As the last student of the previous curriculum, who get to experience part of th
 # Contents
 The repo will be divided into smaller .MD files for ease of reading. This will be update regularly as I complete more writing when i'm free:
 
-1. For Pre-Freshie (totally no background in IT or whatsoever)
-    [Guide for pre-matriculated students - Part 1](./pre_freshie_1.md)
+1. For Pre-Freshie (totally no background in IT or whatsoever):
+- [Guide for pre-matriculated students - Part 1](./pre_freshie_1.md)
+
+# Quick Resources
+- Working with Unix systems by [Missing Semester @ MIT](https://missing.csail.mit.edu/)
+- Python bibel [Automate The Boring Stuffs with Python](https://automatetheboringstuff.com/)
+- Everything about [embedded system](https://www.embedded.com/)
+
