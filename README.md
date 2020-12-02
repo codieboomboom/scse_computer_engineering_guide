@@ -15,4 +15,4 @@ The repo will be divided into smaller .MD files for ease of reading. This will b
 - Working with Unix systems by [Missing Semester @ MIT](https://missing.csail.mit.edu/)
 - Python bibel [Automate The Boring Stuffs with Python](https://automatetheboringstuff.com/)
 - Everything about [embedded system](https://www.embedded.com/)
-
+- How to VPN with Linux to NTUVPN (kudos to Jie Li @pupboss) [bash script](https://gist.github.com/pupboss/581fc9eb5c4654637837303eef33e3c3#file-ntuvpn-sh)
