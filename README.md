@@ -16,3 +16,4 @@ The repo will be divided into smaller .MD files for ease of reading. This will b
 - Python bibel [Automate The Boring Stuffs with Python](https://automatetheboringstuff.com/)
 - Everything about [embedded system](https://www.embedded.com/)
 - How to VPN with Linux to NTUVPN (kudos to Jie Li @pupboss) [bash script](https://gist.github.com/pupboss/581fc9eb5c4654637837303eef33e3c3#file-ntuvpn-sh)
+- Downloading Videos from BB (follow [this](https://www.reddit.com/r/utdallas/comments/fsg0qf/how_to_download_any_video_from_blackboard/)
