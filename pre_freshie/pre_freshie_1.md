@@ -1,4 +1,4 @@
-# Guide for Pre-matriculated students (Part 1)
+# Part 1: CE or CZ/DSAI? Where are we?
 Whether you are an international student, a local student or students (and parents) looking to enter computer engineering in SCSE, this guide might be useful for you.
 
 First part, I will frankly discuss about what CE is about, what skills it requires and how you might want to apply/transfer to CS or DSAI, not CE!

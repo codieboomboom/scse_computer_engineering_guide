@@ -9,11 +9,12 @@ As the last student of the previous curriculum, who get to experience part of th
 The repo will be divided into smaller .MD files for ease of reading. This will be update regularly as I complete more writing when i'm free:
 
 1. For Pre-Freshie (totally no background in IT or whatsoever):
-- [Guide for pre-matriculated students - Part 1](./pre_freshie_1.md)
+- [Part 1: CE or CZ/DSAI? Where are we?](./pre_freshie/pre_freshie_1.md)
+- [Part 2: Bridging skills - how to get an edge?](./pre_freshie/pre_freshie_2.md)
 
 # Quick Resources
 - Working with Unix systems by [Missing Semester @ MIT](https://missing.csail.mit.edu/)
 - Python bibel [Automate The Boring Stuffs with Python](https://automatetheboringstuff.com/)
 - Everything about [embedded system](https://www.embedded.com/)
 - How to VPN with Linux to NTUVPN (kudos to Jie Li @pupboss) [bash script](https://gist.github.com/pupboss/581fc9eb5c4654637837303eef33e3c3#file-ntuvpn-sh)
-- Downloading Videos from BB (follow [this](https://www.reddit.com/r/utdallas/comments/fsg0qf/how_to_download_any_video_from_blackboard/)
+- Downloading Videos from BB (follow [this](https://www.reddit.com/r/utdallas/comments/fsg0qf/how_to_download_any_video_from_blackboard/))
