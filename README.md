@@ -18,4 +18,5 @@ The repo will be divided into smaller .MD files for ease of reading. This will b
 - Everything about [embedded system](https://www.embedded.com/)
 - How to VPN with Linux to NTUVPN (kudos to Jie Li @pupboss) [bash script](https://gist.github.com/pupboss/581fc9eb5c4654637837303eef33e3c3#file-ntuvpn-sh)
 - Downloading Videos from BB (follow [this](https://www.reddit.com/r/utdallas/comments/fsg0qf/how_to_download_any_video_from_blackboard/))
-- How to use Microsoft Office / Adobe with Qemu and Winapps: [windows on qemu](https://github.com/Fmstrat/winapps/blob/main/docs/KVM.md) , [using winapps](https://github.com/Fmstrat/winapps) 
+- How to use Microsoft Office / Adobe with Qemu and Winapps: [windows on qemu](https://github.com/Fmstrat/winapps/blob/main/docs/KVM.md) , [using winapps](https://github.com/Fmstrat/winapps)
+- Quick Math - Linear Algebra, Complex, Calculus, Computer Science - [3brown1blue](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
