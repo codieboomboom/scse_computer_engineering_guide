@@ -8,9 +8,23 @@ As the last student of the previous curriculum, who get to experience part of th
 # Contents
 The repo will be divided into smaller .MD files for ease of reading. This will be update regularly as I complete more writing when i'm free:
 
-1. For Pre-Freshie (totally no background in IT or whatsoever):
+## 1.Tips and Tricks
 - [Part 1: CE or CZ/DSAI? Where are we?](./pre_freshie/pre_freshie_1.md)
 - [Part 2: Bridging skills - how to get an edge?](./pre_freshie/pre_freshie_2.md)
+
+## 2.Course Reviews
+
+## 3.Course Projects Sourcecodes
+This section lists source code for various projects I was part of in NTU SCSE.
+
+- [CE1003 - Intro to Computational Thinking](https://github.com/AnhTuDo1998/telebotCE1003)
+- [CE1007 - Data Structures](https://github.com/AnhTuDo1998/CE1007_DataStructure)
+- [CE2002 - Object Oriented Design and Programming](https://github.com/AnhTuDo1998/CE2002---OODP)
+- [CE2003 - Digital Systems Design](https://github.com/AnhTuDo1998/ce2003-Digital-Systems-Design)
+- [CE2006 - Software Engineering](https://github.com/AnhTuDo1998/ParkEasy)
+- [CE2004 - Circuits & Signal Analysis](https://github.com/AnhTuDo1998/CE2004_Circuits_Signal_Analysis)
+- [CE2007 - Microprocessors](https://github.com/AnhTuDo1998/CE2007---Microprocessors)
+- [CE3006 - Digital Communications](https://github.com/lolfuljames/CE3006-DigitalCommunication)
 
 # Quick Resources
 - Working with Unix systems by [Missing Semester @ MIT](https://missing.csail.mit.edu/)
